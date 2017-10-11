@@ -2,8 +2,11 @@ package com.thachershields.hw4;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
+
+    Button btnNext;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
